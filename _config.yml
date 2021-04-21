@@ -24,7 +24,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: joanocha
 twitter_username: joanocha
 linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: eL8onmAAAAAJ&hl=pt-PT # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -83,8 +83,8 @@ markdown: kramdown
 highlighter: pygments
 
 # Includes & excludes
-include: ['_pages']
-exclude: [vendor, "_pages/publications.md", "_pages/teaching.md"]
+include: ['_pages', '_news']
+exclude: [vendor, "_pages/teaching.md", "_pages/projects.md"]
 
 # Plug-ins
 plugins:
