@@ -4,7 +4,7 @@ permalink: /
 title: Joana L. Rocha
 description: CIBIO-InBIO, UP | FCUP | UC Berkeley 
 
-news: true
+news: false
 social: true
 ---
 

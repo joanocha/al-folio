@@ -1,10 +1,20 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Science outreach
+description: Media cover
+date: 2020-08-04
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+***
 
-Organize your courses by years, topics, or universities, however you like!
+> [Searching for adaptation secrets in the Sahara Desert](https://qb3.berkeley.edu/research-news/searching-for-adaptation-secrets/)
+>
+> By Diana Aguilar Gómez, August 4, 2020
+
+My interview with [Diana Aguilar Gómez](https://dianaaguilaruniverse.wordpress.com/) is now available online at [QB3-Berkeley](https://qb3.berkeley.edu/research-news/searching-for-adaptation-secrets/). 
+
+
+***
+
+<img src="../../assets/img/joanaInDesert.jpg" width="100%" style="float: center;">

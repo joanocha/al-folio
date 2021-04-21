@@ -83,8 +83,8 @@ markdown: kramdown
 highlighter: pygments
 
 # Includes & excludes
-include: ['_pages', '_news']
-exclude: [vendor, "_pages/teaching.md", "_pages/projects.md"]
+include: ['_pages']
+exclude: [vendor, "_pages/projects.md"]
 
 # Plug-ins
 plugins:
