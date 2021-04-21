@@ -6,19 +6,12 @@ description: CIBIO-InBIO, UP | FCUP | UC Berkeley
 
 news: false
 social: true
+order: 2
 ---
 
-<img src="./assets/img/profile.JPG" width="100%" style="float: center;">
+<img src="../assets/img/IMG_20181122_074609.jpg" width="100%" style="float: center;">
 
-Ola! 
-
-I am an evolutionary geneticist interested in the mechanisms driving adaptation in natural populations living under extreme conditions.
-
-Currently I am at my 4th year of the [Doctoral Programme in Biodiversity, Genetics and Evolution](https://www.biodiv.pt/en/phd-programme/about/) at CIBIO-InBIO & Department of Biology at the Faculty of Sciences of the University of Porto.  During these past couple of years I have been working on the genetic basis of desert adaptation, co-advised by [Raquel Godinho](https://cibio.up.pt/people/details/mrgodinho) at CIBIO-InBIO/UP and by [Rasmus Nielsen](https://vcresearch.berkeley.edu/faculty/rasmus-nielsen) at UC Berkeley. 
-
-When I am not doing research, I am swimming, surfing, hiking, and dancing (my life before the pandemic). Above all, I enjoy being in close contact with nature and share all the amazing wonders our planet has to offer with the people I love.  
+“Life is short, and potential studies infinite. We have a much better chance of accomplishing something significant when we follow our passionate interests and work in areas of deepest personal meaning.”
+― Stephen Jay Gould
 
 
----
-
-<img src="./assets/img/cibio-inbio-up.jpeg" width="100%" style="float: center;">

@@ -3,6 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 years: [2021]
+order: 3
 ---
 [Google Scholar](https://scholar.google.com/citations?user=eL8onmAAAAAJ&hl=pt-PT)
 
