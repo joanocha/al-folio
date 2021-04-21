@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Science outreach
+title: science outreach
 description: Media cover
 date: 2020-08-04
 ---
