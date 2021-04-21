@@ -5,7 +5,7 @@ title: publications
 years: [2021]
 order: 3
 ---
-[Google Scholar](https://scholar.google.com/citations?user=eL8onmAAAAAJ&hl=pt-PT)
+[Google Scholar](https://scholar.google.com/citations?user=eL8onmAAAAAJ&hl=pt-PT) 
 
 {% for y in page.years %}
   <h3 class="year">{{y}}</h3>
