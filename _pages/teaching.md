@@ -7,7 +7,7 @@ date: 2020-08-04
 ---
 
 ***
-
+2020
 > [Searching for adaptation secrets in the Sahara Desert](https://qb3.berkeley.edu/research-news/searching-for-adaptation-secrets/)
 >
 > By Diana Aguilar Gómez, August 4, 2020
