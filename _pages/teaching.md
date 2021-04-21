@@ -33,7 +33,7 @@ Chapters for outreach booklets:
 >  Chapter in: [“Next Generation Sequencing projects at CIBIO-InBIO-Evolution”](http://bibliografia.bnportugal.gov.pt/bnp/bnp.exe/registo?1929629); CIBIO-InBIO/UP, Porto, Portugal. 
 
 
-> Chapter:Conservation of the Giant Sable Antelope of Angola. 
+> Conservation of the Giant Sable Antelope of Angola. 
 >
 > By Raquel Godinho, Joana L. Rocha and Pedro Vaz Pinto
 >
