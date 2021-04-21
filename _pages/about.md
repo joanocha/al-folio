@@ -10,7 +10,7 @@ social: true
 
 <img src="./assets/img/profile.JPG" width="100%" style="float: center;">
 
-Hello! 
+Ola! 
 
 I am an evolutionary geneticist interested in the mechanisms driving adaptation in natural populations living under extreme conditions.
 
