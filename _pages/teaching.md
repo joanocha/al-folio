@@ -2,7 +2,7 @@
 layout: page
 permalink: /outreach/
 title: science outreach
-description: Media cover
+description: Media cover & News
 order: 4
 ---
 
