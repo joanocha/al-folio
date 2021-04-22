@@ -21,8 +21,6 @@ This was a dream come true for me!  We thank three anonymous reviewers and the e
 
 ###### Western Sahara, 2018. Photo by: Joana L. Rocha
 
-
-
 ***
 2021
 > [Convergent evolution of increased urine concentrating ability in desert mammals](https://doi.org/10.1111/mam.12244)
@@ -30,7 +28,7 @@ This was a dream come true for me!  We thank three anonymous reviewers and the e
 > March 1, 2021 in Mammal Review
 
 
-Desert mammals are remarkably adapted in their physiology. Among the many physiological mechanisms allowing desert mammalian species to survive in extreme conditions of water scarcity is their ability to produce hyperosmotic urine. In this study, now available in OA, we review urine-concentrating ability in 121 mammal species, measured as maximum urine osmolality (mosmol/Kg), and use a phylogenetic comparative approach to explicitly test the hypothesis that desert-dwelling species have evolved increased ability to concentrate urine compared to non-desert species. We also demonstrate that the mean aridity index of a species’ geographic range largely predicts its urine-concentrating ability. This suggests that, among the many physical and climatic challenges faced by desert species, aridity has been one of the main selective pressures leading to increasing maximum urine-concentrating ability and driving its repeated evolution in different desert 414 mammalian lineages. Future comprehensive statistical studies investigating correlations of diverse bioclimatic variables with more desert adaptive phenotypes, will provide further elucidation on the extent to which climate is predictive for mammalian phenotypes
+Desert mammals are remarkably adapted in their physiology. Among the many physiological mechanisms allowing desert mammalian species to survive in extreme conditions of water scarcity is their ability to produce hyperosmotic urine. In this study, now available in OA, we review urine-concentrating ability in 121 mammal species, measured as maximum urine osmolality (mosmol/Kg), and use a phylogenetic comparative approach to explicitly test the hypothesis that desert-dwelling species have evolved increased ability to concentrate urine compared to non-desert species. We also demonstrate that the mean aridity index of a species’ geographic range largely predicts its urine-concentrating ability. This suggests that, among the many physical and climatic challenges faced by desert species, aridity has been one of the main selective pressures leading to increasing maximum urine-concentrating ability and driving its repeated evolution in different desert mammalian lineages. Future comprehensive statistical studies investigating correlations of diverse bioclimatic variables with more desert adaptive phenotypes, will provide further elucidation on the extent to which climate is predictive for mammalian phenotypes.
 
 <img src="../../assets/img/GraphicalAbstract.jpg" width="100%" style="float: center;">
 
